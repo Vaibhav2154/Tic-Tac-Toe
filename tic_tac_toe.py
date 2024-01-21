@@ -114,5 +114,3 @@ def main():
     if(x==1):
       ConstBoard(board);
       print("Player O Wins x Loses");
-
-main()
